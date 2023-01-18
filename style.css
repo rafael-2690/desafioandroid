@@ -146,6 +146,9 @@ div.video > iframe{
     width: 80%;
     height: 80%;
 }
+article{
+    text-align: justify;
+}
 
 
 
